@@ -60,7 +60,7 @@
     "scoringType": 1,
     "semesterId": "xxxx",
     // 签名, 本次目标就是找到signDigital是如何生成的
-    "signDigital": "f831eb1437b7b6fb30827ecab2b040a690041099",
+    "signDigital": "f831eb1437b7b6fb30827ecab2b040a690041000",
     "signPoint": [],
     "startTime": "2022-04-13 20:21:23",
     "systemVersion": "7.1.2",
@@ -75,7 +75,7 @@
 
 ### 1. 使用MT查看apk信息
 
-通过mt查看乐健体育apk发现是由360加固的, dex是无法发编译直接看源码的
+通过mt查看乐健体育apk发现是由360加固的, dex是无法反编译直接看源码的
 
 <img src="img/IMG_20220423_223640.jpg" alt="IMG_20220423_223640" style="zoom: 25%;" />
 
